@@ -1,0 +1,11 @@
+{
+  "name": "eventcoin",
+  "version": "1.0.0",
+  "description": "An event registration app that receives payment in bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chidozie Ijeomah",
+  "license": "MIT"
+}
